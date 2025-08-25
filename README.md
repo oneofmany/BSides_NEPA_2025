@@ -6,4 +6,8 @@ You will find links of interest, the talk presentation, a incident response repo
 
 Thank you for stopping by!!
 
-Good luck!! 
+For a repository of DFIR reports to use as reference you can go here
+
+The Incident report template is here: 
+
+
